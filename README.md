@@ -69,7 +69,7 @@ Test connectivity using ping and perform nslookup to verify domain name resoluti
 </p>
 
 <p align="center">
-Open System Properties, enter the domain name homelabactivity.local, and rename the computer to Computer-01 to join the domain.
+Open System Properties, enter the domain name homelabactivity.local, <br>and rename the computer to Computer-01 to join the domain.
   <img src="./assets/images/10.png" alt="Create new user"
        style="width:80%;height:80%;display:block;margin:0 auto;" />
 </p>
