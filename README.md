@@ -2,7 +2,7 @@
 
 ## Description
 
-A step-by-step walk-through of configuring network interface settings, verifying DNS resolution, and joining a Windows 10 workstation to an Active Directory domain (homelabactivity.local). This procedure ensures proper communication between client machines and the domain controller within the virtual lab environment.
+A step-by-step walk-through of configuring network interface settings, verifying DNS resolution, and joining a Windows 10 workstation to an Active Directory domain. This procedure ensures proper communication between client machines and the domain controller within the virtual lab environment.
 
 ## Environment Used
 
@@ -63,7 +63,7 @@ Update IPv4 DNS settings to point directly to the Active Directory Domain Contro
 </p>
 
 <p align="center">
-Test connectivity using ping and perform nslookup to verify domain name resolution for homelabactivity.local.
+Test connectivity using ping and perform nslookup to verify domain name resolution .
   <img src="./assets/images/9.png" alt="Create new user"
        style="width:80%;height:80%;display:block;margin:0 auto;" />
 </p>
@@ -81,7 +81,7 @@ Authenticate with domain administrator credentials to authorize joining the doma
 </p>
 
 <p align="center">
-Confirm successful domain join upon receiving the welcome message for homelabactivity.local.
+Confirm successful domain join upon receiving the welcome message .
   <img src="./assets/images/12.png" alt="Create new user"
        style="width:80%;height:80%;display:block;margin:0 auto;" />
 </p>
